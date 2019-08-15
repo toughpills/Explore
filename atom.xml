@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>L&#39;s Exploration</title>
   
+  <subtitle>sorry for the noise</subtitle>
+  <link href="/Explore/atom.xml" rel="self"/>
   
-  <link href="/atom.xml" rel="self"/>
-  
-  <link href="http://yoursite.com/"/>
-  <updated>2019-08-14T08:37:19.043Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://toughpills.github.io/Explore/"/>
+  <updated>2019-08-15T10:08:59.380Z</updated>
+  <id>https://toughpills.github.io/Explore/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>lisliar</name>
     
   </author>
   
@@ -18,33 +18,24 @@
   
   <entry>
     <title>my exploreation</title>
-    <link href="http://yoursite.com/2019/08/14/my-exploreation/"/>
-    <id>http://yoursite.com/2019/08/14/my-exploreation/</id>
+    <link href="https://toughpills.github.io/Explore/2019/08/14/my-exploreation/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/14/my-exploreation/</id>
     <published>2019-08-14T08:13:52.000Z</published>
-    <updated>2019-08-14T08:37:19.043Z</updated>
+    <updated>2019-08-15T10:08:59.380Z</updated>
     
     <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;#“博客算是搭好了吗？”&lt;/p&gt;
-
-        
-      
     
     </summary>
     
     
-      <category term="living" scheme="http://yoursite.com/tags/living/"/>
+      <category term="living" scheme="https://toughpills.github.io/Explore/tags/living/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/14/hello-world/"/>
-    <id>http://yoursite.com/2019/08/14/hello-world/</id>
+    <link href="https://toughpills.github.io/Explore/2019/08/14/hello-world/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/14/hello-world/</id>
     <published>2019-08-14T07:44:20.155Z</published>
     <updated>2019-08-14T07:44:20.155Z</updated>
     
