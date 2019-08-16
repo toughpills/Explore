@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>toughpills</title>
   
-  <subtitle>happy &amp; real</subtitle>
+  <subtitle>Be happy &amp; Keep real</subtitle>
   <link href="/Explore/atom.xml" rel="self"/>
   
   <link href="https://toughpills.github.io/Explore/"/>
-  <updated>2019-08-15T13:12:57.172Z</updated>
+  <updated>2019-08-16T07:59:59.905Z</updated>
   <id>https://toughpills.github.io/Explore/</id>
   
   <author>
@@ -17,21 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>翻译</title>
+    <link href="https://toughpills.github.io/Explore/2019/08/16/fanyi/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/16/fanyi/</id>
+    <published>2019-08-16T07:55:56.000Z</published>
+    <updated>2019-08-16T07:59:59.905Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="翻译" scheme="https://toughpills.github.io/Explore/categories/%E7%BF%BB%E8%AF%91/"/>
+    
+    
+      <category term="JesseEisenberg" scheme="https://toughpills.github.io/Explore/tags/JesseEisenberg/"/>
+    
+      <category term="Movies" scheme="https://toughpills.github.io/Explore/tags/Movies/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Burning 影评一则</title>
     <link href="https://toughpills.github.io/Explore/2019/08/14/my-exploreation/"/>
     <id>https://toughpills.github.io/Explore/2019/08/14/my-exploreation/</id>
     <published>2019-08-14T08:13:52.000Z</published>
-    <updated>2019-08-15T13:12:57.172Z</updated>
+    <updated>2019-08-16T09:10:41.651Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;link：&lt;a href=&quot;http://www.indiewire.com/2018/05/burning-review-lee-chang-dong-steven-yeung-1201963075/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;htt
-        
-      
+      translation of an review of BURNING
     
     </summary>
     
