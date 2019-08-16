@@ -6,7 +6,7 @@
   <link href="/Explore/atom.xml" rel="self"/>
   
   <link href="https://toughpills.github.io/Explore/"/>
-  <updated>2019-08-16T11:56:14.365Z</updated>
+  <updated>2019-08-16T12:55:57.706Z</updated>
   <id>https://toughpills.github.io/Explore/</id>
   
   <author>
@@ -17,11 +17,83 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>区块链：推动第4次工业革命？</title>
+    <link href="https://toughpills.github.io/Explore/2019/08/16/bitcoin3/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/16/bitcoin3/</id>
+    <published>2019-08-16T12:46:24.000Z</published>
+    <updated>2019-08-16T12:55:57.706Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;区块链的本质是一种共识，在相互不信任的主体之间创造共识，形成公认价值。这种共识为什么会带来价值呢？因为共识带来信任感，信任促进人与人之间的合作，这种合作将会带来价值。区块链的目的将虚拟世界和现实世界连接起来，进一步解放社会生产力。&lt;/p&gt;&lt;p&gt;那么区块链和比特币有什么联系呢？区块链是比特币的底层技术，比特币使用整个P2P网络中众多节点构成的分布式数据库来确认并记录所有的交易行为。在信息传递过程中，发送方通过一把密钥将信息加密。接收方在收到信息后，通过配对的另一把密钥对信息进行解密，保证信息传递过程的私密性与安全性。每一笔交易完成时，系统都会向全网进行广播。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Econs" scheme="https://toughpills.github.io/Explore/categories/Econs/"/>
+    
+    
+      <category term="Blockchain" scheme="https://toughpills.github.io/Explore/tags/Blockchain/"/>
+    
+      <category term="Bitcoin" scheme="https://toughpills.github.io/Explore/tags/Bitcoin/"/>
+    
+      <category term="货币" scheme="https://toughpills.github.io/Explore/tags/%E8%B4%A7%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://toughpills.github.io/Explore/2019/08/16/bitcoin2/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/16/bitcoin2/</id>
+    <published>2019-08-16T12:40:32.000Z</published>
+    <updated>2019-08-16T12:55:53.529Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;所谓货币非国家的核心观念在于“去中心化”。我想，这也是科技革命一路发展的趋势所在，互联网已经基本漫入生活学习的同时，也削弱了国别、地理界限等“中心”概念。当这种观念成为未来人类、甚至是现代人的一种“共识、常识”，自然而然将会生发对传统货币的挑战。因为我们现在通行的纸币制度，实则依附于一种国家权威，国家信用、认同，当这种感情逐渐减弱的时候，全人类势必将探索一种新的货币金融、经济交易方式。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Econs" scheme="https://toughpills.github.io/Explore/categories/Econs/"/>
+    
+    
+      <category term="Blockchain" scheme="https://toughpills.github.io/Explore/tags/Blockchain/"/>
+    
+      <category term="Bitcoin" scheme="https://toughpills.github.io/Explore/tags/Bitcoin/"/>
+    
+      <category term="货币" scheme="https://toughpills.github.io/Explore/tags/%E8%B4%A7%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>货币的非国家化</title>
+    <link href="https://toughpills.github.io/Explore/2019/08/16/bitcoin1/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/16/bitcoin1/</id>
+    <published>2019-08-16T12:38:08.000Z</published>
+    <updated>2019-08-16T12:55:41.170Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​比特币大火，价格疯狂涨跌，是大家都看得到、甚至广泛参与的事情，但最近流行的区块链技术，却让很多人不解。区块链是比特币的基础，但是区块链在比特币之外，有着非常广泛的应用，甚至被一部分人视为下一次工业革命。&lt;/p&gt;&lt;p&gt;那么，如何去理解区块链、比特币呢？从货币角度切入，漫想一种可能性，即货币非国家化，由私人机构发行，以竞争性的方式接受市场机制的选择，是否当前困扰经济的各种问题会迎刃而解？&lt;br&gt;这一切并非我的想象，而是诺贝尔奖得主哈耶克在19世纪70年代完成的《货币的非国家化》一书中提出。这本书从哲学、认知科学的角度，证实“自由市场经济”观点，对于理解当前很多新生的经济现象，有很大帮助，以下是一些阅读随记。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Econs" scheme="https://toughpills.github.io/Explore/categories/Econs/"/>
+    
+    
+      <category term="Blockchain" scheme="https://toughpills.github.io/Explore/tags/Blockchain/"/>
+    
+      <category term="Bitcoin" scheme="https://toughpills.github.io/Explore/tags/Bitcoin/"/>
+    
+      <category term="货币" scheme="https://toughpills.github.io/Explore/tags/%E8%B4%A7%E5%B8%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《燃烧》：一个有关工人阶级颓败的迷人故事</title>
-    <link href="https://toughpills.github.io/Explore/2019/08/14/my-exploreation/"/>
-    <id>https://toughpills.github.io/Explore/2019/08/14/my-exploreation/</id>
+    <link href="https://toughpills.github.io/Explore/2019/08/14/burningtrans/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/14/burningtrans/</id>
     <published>2019-08-14T08:13:52.000Z</published>
-    <updated>2019-08-16T11:56:14.365Z</updated>
+    <updated>2019-08-16T12:47:21.647Z</updated>
     
     <summary type="html">
     
