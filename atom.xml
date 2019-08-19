@@ -6,7 +6,7 @@
   <link href="/Explore/atom.xml" rel="self"/>
   
   <link href="https://toughpills.github.io/Explore/"/>
-  <updated>2019-08-16T12:55:57.706Z</updated>
+  <updated>2019-08-19T04:34:17.187Z</updated>
   <id>https://toughpills.github.io/Explore/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python 学习日志</title>
+    <link href="https://toughpills.github.io/Explore/2019/08/19/pythoncode/"/>
+    <id>https://toughpills.github.io/Explore/2019/08/19/pythoncode/</id>
+    <published>2019-08-19T04:33:06.000Z</published>
+    <updated>2019-08-19T04:34:17.187Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;This-program-demonstrates-a-function&quot;&gt;&lt;a href=&quot;#This-program-demonstrates-a-function&quot; class=&quot;headerlink&quot; title=&quot;This program demonstrates a function.&quot;&gt;&lt;/a&gt;This program demonstrates a function.&lt;/h1&gt;&lt;h1 id=&quot;First-we-define-a-function-named-welcome-message&quot;&gt;&lt;a href=&quot;#First-we-define-a-function-named-welcome-message&quot; class=&quot;headerlink&quot; title=&quot;First, we define a function named welcome_message.&quot;&gt;&lt;/a&gt;First, we define a function named welcome_message.&lt;/h1&gt;&lt;p&gt;def welcome_message():&lt;br&gt;    print(‘This is Python course’)&lt;br&gt;    print(‘Welcome to this world’)&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Study" scheme="https://toughpills.github.io/Explore/categories/Study/"/>
+    
+    
+      <category term="Python" scheme="https://toughpills.github.io/Explore/tags/Python/"/>
+    
+      <category term="Code" scheme="https://toughpills.github.io/Explore/tags/Code/"/>
+    
+  </entry>
   
   <entry>
     <title>区块链：推动第4次工业革命？</title>
